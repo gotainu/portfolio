@@ -1,0 +1,5 @@
+RUN apt-get update && apt-get install -y \
+		sodo \
+		wget \
+		vim
+		
