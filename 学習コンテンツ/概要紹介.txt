@@ -1,2 +1,47 @@
 Webアプリ開発ができるようになりたいという思いのもと、Pythonで作成できる２つのフレームワークの学習を行いました。
 ゆくゆくはデータサイエンスで培ったスキルと組み合わせたアプリを公開したいです。
+
+
+
+
+学習に使用したUdemyコンテンツ：
+【徹底的に解説！】Djangoの基礎をマスターして、3つのアプリを作ろう！（Django2版 / 3版を同時公開中です）
+https://www.udemy.com/course/django-3app/learn/lecture/23384076#overview
+
+【PythonとStanで学ぶ】仕組みが分かるベイズ統計学入門
+https://www.udemy.com/course/pythonstan/learn/lecture/9132048?start=0#overview
+
+爆速で5つのPython Webアプリを開発
+https://www.udemy.com/course/python-streamlit/learn/lecture/25936606?start=0#overview
+
+米国AI開発者がゼロから教えるDocker講座
+
+https://www.udemy.com/course/aidocker/learn/lecture/34285638?start=0#overview
+
+米国AI開発者がやさしく教えるGit入門講座
+https://www.udemy.com/course/aigitgithub/learn/lecture/24830154?start=0#overview
+
+米国データサイエンティストがやさしく教えるデータサイエンスのためのPython講座
+https://www.udemy.com/course/ds_for_python/learn/lecture/21511746?start=0#overview
+
+米国データサイエンティストが教える統計学超入門講座【Pythonで実践】
+https://www.udemy.com/course/python-stats/learn/lecture/29307012?start=0#overview
+
+米国AI開発者がゼロから教えるPython入門講座
+https://www.udemy.com/course/python-ai/learn/lecture/26564654?start=0#overview
+
+
+学習に使用した書籍：
+最短コースでわかる　ディープラーニングの数学　赤石　雅典（日経BP社）
+
+基礎統計学Ⅰ　統計学入門　東京大学教養学部統計学教室　編　（東京大学出版会）
+
+ゼロから作るDeepLearning①　斎藤康毅（オライリー・ジャパン）
+
+化学のためのPythonによるデータ解析・機械学習入門　金子弘昌 (オーム社)
+
+Pythonで体験するベイズ推論　キャメロン・デビッドソン＝ピロン　（森北出版）
+
+Pythonではじめるベイズ機械学習入門　森賀新　（講談社）
+
+
